@@ -14,6 +14,7 @@ pip install scikit-learn
 ```
 
 ## Table of contents
+- Load Data From CSV File
 - Pre-processing
 - Setting up the Decision Tree
 - Modeling
